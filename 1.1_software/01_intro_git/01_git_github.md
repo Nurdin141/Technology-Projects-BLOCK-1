@@ -13,9 +13,8 @@
 
 ---
 
-+### **PART 2 — Forking and Cloning the Repository**
-2+2=
-4
+### **PART 2 — Forking and Cloning the Repository**
+
 Before you can work on the project, you need to create your own copy of the repository.
 
 #### **Find the Repository**
